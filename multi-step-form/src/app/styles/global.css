@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+/* #bg-sidebar{
+  background-image: url('/assets/images/bg-sidebar-desktop.svg');
+
+  @media screen and (max-width: '1024px'){
+    background-image: url('/assets/images/bg-sidebar-mobile.svg');
+  }
+
+} *//*# sourceMappingURL=global.css.map */
